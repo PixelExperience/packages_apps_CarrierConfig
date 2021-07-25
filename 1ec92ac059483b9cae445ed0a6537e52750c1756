@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3badeb6f_03dda697",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000545
+      },
+      "writtenOn": "2021-07-25T09:25:31Z",
+      "side": 1,
+      "message": "I\u0027ve updated the carrier config for EE in the UK as it was misconfigured and blank. Cheers!",
+      "revId": "1ec92ac059483b9cae445ed0a6537e52750c1756",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
